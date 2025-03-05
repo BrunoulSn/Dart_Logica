@@ -21,8 +21,8 @@ void main(List<String> args) {
 
   List<String> nomes = ["Alice", "Bruno", "Carlos", "Diana", "Eduardo"];
 
-  int i = 0;
-  while (i < nomes.length) {
+  int o = 0;
+  while (o < nomes.length) {
     print("nome ${nomes[i]}");
     i++;
   }
